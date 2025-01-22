@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="Frame 943.png"  />
+  <img height="200" src="Frame 943.png" width="100%" />
 </div>
 
 ###
