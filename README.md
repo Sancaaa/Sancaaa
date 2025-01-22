@@ -78,9 +78,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" height="40" alt="excel logo" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jsdelivr.com%2Fpackage%2Fnpm%2Fofficegen&psig=AOvVaw0asQ2nSTT2_3t3h0V99b9T&ust=1737637787769000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKj1zqqziYsDFQAAAAAdAAAAABAE" height="40" alt="excel logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftpowerpoint/microsoftpowerpoint-original.svg" height="40" alt="powerpoint logo" />
+  <img src="https://www.jsdelivr.com/package/npm/officegen" height="40" alt="powerpoint logo" />
 </div>
 
 ###
